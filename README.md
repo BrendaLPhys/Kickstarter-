@@ -1,1 +1,1 @@
-# A data analysis exercise based on Kickstarter data [from kaggle](https://www.kaggle.com/kemical/kickstarter-projects) and the findings by [these guys](http://saumyaray.me/files/Kickstarter%20Data%20Analysis.pdf)
+### A data analysis exercise based on Kickstarter data [from kaggle](https://www.kaggle.com/kemical/kickstarter-projects) and the findings by [these guys](http://saumyaray.me/files/Kickstarter%20Data%20Analysis.pdf).
